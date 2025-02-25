@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+# Manish Kumar
 ## Table of contents
 
 * [Installation](#Installation)
